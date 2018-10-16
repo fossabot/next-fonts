@@ -1,9 +1,9 @@
 {
-  "name": "next-fonts",
-  "version": "0.10.0",
+  "name": "@ninetynine/next-fonts",
+  "version": "0.10.1",
   "main": "index.js",
   "license": "MIT",
-  "repository": "rohanray/next-fonts",
+  "repository": "ninetynine/next-fonts",
   "dependencies": {
     "file-loader": "^1.1.6",
     "url-loader": "^0.6.2"
