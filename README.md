@@ -1,7 +1,7 @@
 # Next.js + Fonts
 
 Import fonts in [Next.js](https://github.com/zeit/next.js)
-(woff, woff2, eot, ttf & otf)
+(woff, woff2, eot, ttf, otf & svg)
 
 This package was original taken from [here](https://github.com/rohanray/next-fonts) but it was unmaintained, so I am continuing maintenance here
 
